@@ -1,4 +1,4 @@
-ThreadWord Analyzer – A High-Performance Multithreaded File Processor
+🚀 ThreadWord Analyzer – A High-Performance Multithreaded File Processor
 
 ThreadWord Analyzer is a powerful C# application that efficiently processes large text files using multithreading to enhance performance. With an intuitive GUI, users can specify the number of threads (sections) for parallel processing and analyze word occurrences within a file.
 
@@ -9,6 +9,7 @@ Key Features:
 ✅ Comprehensive Word Frequency Table – Displays the count of all words in the file after processing.
 ✅ Search Functionality – Allows users to search for a word and view its occurrence count instantly.
 ✅ User-Friendly GUI – Simple and interactive interface for seamless processing.
+✅ Smooth UI Experience – Uses asynchronous processing to prevent UI freezing or hanging during execution.
 
 How It Works:
 1️⃣ Load a text file into the application.
@@ -23,3 +24,4 @@ Technologies Used:
 🟢 C# .NET – Core programming language
 ⚡ Multithreading – Optimized performance using parallel processing
 📊 WinForms/WPF – User-friendly graphical interface
+🔄 Asynchronous UI Handling – Ensures smooth user interaction without lag
