@@ -1,0 +1,22 @@
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\bin\Debug\parallel gui.exe.config
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\bin\Debug\parallel gui.exe
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\bin\Debug\parallel gui.pdb
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel gui.csproj.AssemblyReference.cache
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel_gui.Properties.Resources.resources
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel gui.csproj.GenerateResource.cache
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel gui.csproj.CoreCompileInputs.cache
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel gui.exe
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel gui.pdb
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel_gui.Form1.resources
+D:\studying\fourth year\first semester\parallel\project\parallel processing\parallel gui\parallel gui\obj\Debug\parallel_gui.Form2.resources
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\bin\Debug\parallel gui.exe.config
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\bin\Debug\parallel gui.exe
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\bin\Debug\parallel gui.pdb
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel gui.csproj.AssemblyReference.cache
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel_gui.Form1.resources
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel_gui.Form2.resources
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel_gui.Properties.Resources.resources
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel gui.csproj.GenerateResource.cache
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel gui.csproj.CoreCompileInputs.cache
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel gui.exe
+D:\Programming_Corner\web development\projects_done\MultiThread-Text-Processor\parallel gui\obj\Debug\parallel gui.pdb
